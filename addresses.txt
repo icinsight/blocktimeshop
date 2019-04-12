@@ -1,0 +1,20 @@
+Main ERC721 token:
+https://ropsten.etherscan.io/token/0xdf87043a3f60f8e9df0117f6a5c700ddca4b3bff
+
+Escrow account:
+https://ropsten.etherscan.io/address/0x23bfeb0db5347124eeb584abf9d7a97b45a65d7b
+
+Mock-up 0xBTC (BETX):
+https://ropsten.etherscan.io/token/0x34886cb5b00df8f1cec87de3d0ce9e4884c712ad
+
+Test tokens:
+0xLTC: https://ropsten.etherscan.io/token/0xe7ab2c2da19901617108df384e06effe53659ae2
+BST: https://ropsten.etherscan.io/token/0x272613df33e8cad74d100936cf546d4bb779c507
+CATZ: https://ropsten.etherscan.io/token/0xd02b2f48dc3e8c0706777ce35043670c6e9dc718
+DOGY: https://ropsten.etherscan.io/token/0xbc841e82e9360f646deb6e3e17e8cb9952beb905
+GPC: https://ropsten.etherscan.io/token/0x9a17349fa80d3d9522814343e00dae7bf7086824
+PEAC: https://ropsten.etherscan.io/token/0x2bc8de98d85de0a00e29dcb5f90c9c15f7a72892
+ZERO: https://ropsten.etherscan.io/token/0xa694c55dc997abebb1a7a0c78f3e6e29745a1313
+
+
+
